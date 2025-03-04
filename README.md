@@ -7,9 +7,10 @@ So I created a local LLM project using RAG which helps with the accuracy of the 
 
 Therefore I used chroma DB as my vector database used for providing the LLM model with context using which we can have augmented generation for the respones.
 
-**MODEL ** - Ollama LLama2 / Mistral
+**MODEL** - Ollama LLama2 / Mistral
 **VECTOR DB** - Chroma DB for RAG
 **EMBEDDING** - OllamaEmbedding
+**TESTING** - Test cases for the summarization of the pdf files using the llm itself
 
 **FUTURE**
 I will try to open a OPENAI account and use the GPT model to have more accurate responses.
